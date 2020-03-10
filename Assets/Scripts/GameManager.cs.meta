@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25006e6a569836f4d8a94659ba3baab3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pellet: {instanceID: 0}
+  - energizer: {instanceID: 0}
+  - cubinho: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
